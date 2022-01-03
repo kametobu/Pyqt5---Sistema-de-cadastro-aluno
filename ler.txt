@@ -1,0 +1,5 @@
+Alunos: - Alann Batista Cardoso Silva	 R.A.: 1916227
+             - Geovanny Carvalho de Sousa  	R.A.: 1913642
+
+
+-O ponto exe esta localizado na pasta dist (Windows)

@@ -1,0 +1,3 @@
+
+pyrcc5 imagensListar.qrc -o imagensListar.py
+pyuic5 -x Listar.ui -o Listar.py 

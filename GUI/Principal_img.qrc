@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/userLogado.png</file>
+    <file>img/userInf.png</file>
+    <file>img/userInfo.png</file>
+    <file>img/PostoTrabalho.png</file>
+    <file>img/Atividade.png</file>
+    <file>img/Unidades.png</file>
+    <file>img/recaregar.png</file>
+    <file>img/userconfig.png</file>
+    <file>img/home.png</file>
+    <file>img/sair.png</file>
+    <file>img/menu.png</file>
+    <file>img/Promo2.jpg</file>
+    <file>img/Promo1.jpg</file>
+    <file>img/fundo.jpg</file>
+    <file>img/sumareP.png</file>
+    <file>img/LogoP.png</file>
+    <file>img/login3.png</file>
+    <file>img/Logo.png</file>
+  </qresource>
+</RCC>
